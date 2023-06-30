@@ -6,8 +6,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>z
-<h2>hihi</h2>
-<h2>m2</h2>
+<body>
+
 </body>
 </html>
